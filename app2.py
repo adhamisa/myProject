@@ -15,7 +15,7 @@ import os
 
 #os.environ['OPENAI_API_KEY'] = apikey
 
-# Sidebar contents
+# Sidebar contents test
 with st.sidebar:
     st.title('🤗💬 LLM Chat App')
     st.markdown('''
